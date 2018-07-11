@@ -1,0 +1,236 @@
+{
+  "page":16,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/data-democratization-is-crucial-to-your-business",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Category_page_image_data_democratization.png",
+      "imageAlt":"Orange ripple",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Why Data Democratization is Crucial to Your Business",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/data-democratization-is-crucial-to-your-business.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/mobile-may-be-the-best-tech-for-retail-store",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Why%20Mobile%20May%20Be%20the%20Best%20Technology%20for%20Your%20Retail%20Stores.jpg",
+      "imageAlt":"Red and pink sea anemone",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"Why Mobile May Be the Best Technology for Your Retail Stores.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/mobile-may-be-the-best-tech-for-retail-store.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/retailers-that-deliver-experiences-stand-out",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/retailers-that-deliver-experiences-stand-out/372558.en.amc.marquee.1440x600.jpg",
+      "imageAlt":"Urban sidewalk scene with colorful splash",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"Why retailers that use experiences stand out.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/retailers-that-deliver-experiences-stand-out.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/emotion-is-the-new-currency-of-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/EmotionIsTheNewCurrency-385x265.jpg",
+      "imageAlt":"Person speaking on stage. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"\u2018Emotion Is The New Currency Of Experience,\u2019 Adobe\u2019s VP Of Strategy Tells Summit Participants.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/emotion-is-the-new-currency-of-experience.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

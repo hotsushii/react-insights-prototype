@@ -1,0 +1,332 @@
+{
+  "page":5,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/breathe-new-life-into-the-customer-journey-",
+      "type":"standard",
+      "width":1,
+      "background":"",
+      "imageAlt":"",
+      "article":{
+        "title":"Breathe new life into the customer journey.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/breathe-new-life-into-the-customer-journey-.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/building-the-experience-based-digital-foundation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Building%20the%20Experience%20Based%20Digital%20Foundaation%20-%20Reuters.jpg",
+      "imageAlt":"Abstract image of computer screens. ",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Building the experience-based digital foundation.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/building-the-experience-based-digital-foundation.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/20649?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/cdo-role-on-the-rise-as-companies-make-digital-strategy-a-priority",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/experience_design_cdo-roles.jpg",
+      "imageAlt":"Person typing on a tablet. ",
+      "primaryTagId":"insights:collections/experience-design",
+      "tags":[
+        "insights:collections/experience-design"
+      ],
+      "article":{
+        "title":"CDO Roles On The Rise as Companies Make Digital Strategy a Priority.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/cdo-role-on-the-rise-as-companies-make-digital-strategy-a-priority.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-/Woman%20looking%20at%20her%20phone.jpg",
+      "imageAlt":"Woman looking at her phone",
+      "article":{
+        "title":"Citizen data analytics: Give everyone a shot at the action.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/spotlight-on-travel-and-hospitality",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/CMO.com%20shines%20the%20spotlight%20on%20travel%20%26%20hospitality.jpg",
+      "imageAlt":"Image that says T&H",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/perspectives",
+        "insights:collections/innovation",
+        "insights:collections/digital-transformation",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"CMO.com Shines The Spotlight On Travel & Hospitality.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/spotlight-on-travel-and-hospitality.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/coca-cola-and-adidas-put-design-at-the-centre-of-customer-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/coca-cola_385x265.jpg",
+      "imageAlt":"Glass of coca cola. ",
+      "primaryTagId":"insights:collections/experience-design",
+      "tags":[
+        "insights:collections/experience-design"
+      ],
+      "article":{
+        "title":"Coca-Cola And Adidas Put Design At The Centre Of Customer Experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/coca-cola-and-adidas-put-design-at-the-centre-of-customer-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-marketing-in-the-high-tech-industry",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Competition%20Drives%20Digital%20marketing%20in%20The%20High-Tech%20Industry.jpg",
+      "imageAlt":"Abstract image of a finger.",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Competition Drives Digital Marketing In The High-Tech Industry.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-marketing-in-the-high-tech-industry.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/content-for-everyone-how-to-build-fluid-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/content-for-everyone-how-to-build-fluid-experiences-cropped.jpg",
+      "imageAlt":"Person using a device",
+      "primaryTagId":"insights:collections/cross-channel",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/cross-channel"
+      ],
+      "article":{
+        "title":"Content for everyone: How to build fluid experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/content-for-everyone-how-to-build-fluid-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/content-management-for-everyone",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/People-in-an-office-cropped.jpg",
+      "imageAlt":"People in an office",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Content management for everyone.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/content-management-for-everyone.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Content%20unleashed%20A%20digital%20foundation%20for%20media%20and%20entertainment..jpg",
+      "imageAlt":"People sitting on a couch with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Content unleashed: A digital foundation for media and entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

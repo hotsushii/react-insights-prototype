@@ -1,0 +1,343 @@
+{
+  "page":4,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/ai-powered-personalization",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/ai-powered-personalization.jpg",
+      "imageAlt":"ai-powered personalization",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:industries/fsi",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"AI powered personalization - above expectation, beyond imagination.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/ai-powered-personalization.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/pivotal-moment-for-artificial-intelligence",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"Think Tank Video - Raj Shaw",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"AI Think Tank Recap: We've Reached A Pivotal Moment for AI",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/pivotal-moment-for-artificial-intelligence.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/amplify-talent-become-experience-maker",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/amplify-your-talent.jpg",
+      "imageAlt":" Amplify Your Talent",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/workforce-productivity",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Amplify Your Talent.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/amplify-talent-become-experience-maker.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22287/?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/amplifying-human-creativity-with-artificial-intelligence",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/amplifying-human-creativity-with-artificial-intelligence-cropped.jpg",
+      "imageAlt":"Swirling rainbow",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Amplifying human creativity with artificial intelligence to transform digital experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/amplifying-human-creativity-with-artificial-intelligence.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas/372907.en.amc-article.marquee.3.1440x600.jpg",
+      "imageAlt":"Man standing in the airport with suitcase looking at plane taking off.",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/cross-channel",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"At Qantas, Authentic Customer Experiences Take Flight On The Front Line.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/accelerate-content-velocity-to-meet-customer-expectation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Lady%20working%20with%20skyline%20in%20background.jpg",
+      "imageAlt":"Lady working with skyline",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/workforce-productivity",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Become a content speed demon: Accelerate content velocity to electrify experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/accelerate-content-velocity-to-meet-customer-expectation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/AEC-connects-digital-transformation-and-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"Think Tank Video - Brad Rencher",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Brad Rencher, EVP Adobe.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/AEC-connects-digital-transformation-and-customer-experience.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22196t1?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/use-data-to-improve-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Pink_and_purple_circles.jpg",
+      "imageAlt":"Pink and purple circles",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Brands Use Data to Raise the Bar on Customer Experience.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/use-data-to-improve-customer-experience.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/test-page-created",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/breathe-new-life-into-customer-journey/People%20looking%20at%20a%20tablet%20and%20surrounded%20by%20colorful%20orbs.jpg",
+      "imageAlt":"People looking at a tablet and surrounded by colorful orbs",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Breathe new life into the customer journey. ",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/test-page-created.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/breathe-new-life-into-customer-journey",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/breathe-new-life-into-customer-journey.jpg",
+      "imageAlt":"breathe-new-life-into-customer-journey",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Breathe new life into the customer journey. ",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/breathe-new-life-into-customer-journey.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

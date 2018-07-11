@@ -1,0 +1,339 @@
+{
+  "page":1,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"popular",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/coca-cola-and-adidas-put-design-at-the-centre-of-customer-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/coca-cola_385x265.jpg",
+      "imageAlt":"Glass of coca cola. ",
+      "primaryTagId":"insights:collections/experience-design",
+      "tags":[
+        "insights:collections/experience-design"
+      ],
+      "article":{
+        "title":"Coca-Cola And Adidas Put Design At The Centre Of Customer Experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/coca-cola-and-adidas-put-design-at-the-centre-of-customer-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/fsi-mobile-geolocation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/location_mobile_geolocation.jpg",
+      "imageAlt":"Location, location, mobile geolocation",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"FSI: Location, location, mobile geolocation.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/fsi-mobile-geolocation.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/21483?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-/Woman%20looking%20at%20her%20phone.jpg",
+      "imageAlt":"Woman looking at her phone",
+      "article":{
+        "title":"Citizen data analytics: Give everyone a shot at the action.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/citizen-data-analytics--give-everyone-a-shot-at-the-action-.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/every-traveler-has-a-voice-through-voice-marketing",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_screen_shot_2018-02-27_at_40652_pm.jpg",
+      "imageAlt":"A timeless travel experience at an airport",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"Every traveler has a voice. Let them speak. ",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/every-traveler-has-a-voice-through-voice-marketing.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/the-magic-of-AI-in-a-content-driven-world",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/the-magic-of-AI-in-a-content-driven-world-cropped.jpg",
+      "imageAlt":"Swirling rainbow",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"The magic of AI in a content-driven world. Using artificial intelligence to create content faster.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/the-magic-of-AI-in-a-content-driven-world.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences/en.aec.banner2.1440x600_74546780.jpg",
+      "imageAlt":"Data sets the stage for amazing retail experiences.",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"Data sets the stage for amazing retail experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/fsi-companies-slow-to-embrace-digital-transformation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/FSI%20Guide%20Digital%20Transformation.jpg",
+      "imageAlt":"Abstract image of a person riding a bicycle on a digital wall. ",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"5 Ways Laggard FSI Firms Can Become Digital Pacesetters.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/fsi-companies-slow-to-embrace-digital-transformation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/accelerating-digital-transformation-in-fsi",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/accelerating-digital-transformation-in-fsi/6_fsi_digital_transformation_from_fast_follower_to_digital_pacesetter_1440x500.jpg",
+      "imageAlt":"Abstract image of a person riding a bicycle on a digital wall. ",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"From fast follower to digital pacesetter.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/accelerating-digital-transformation-in-fsi.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/connected-experiences-start-with-data",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/fsi_connect-experiences.jpg",
+      "imageAlt":"Woman at an ATM with a very colorful wall surrounding it.",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/cross-channel",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"To Connect Your Experiences, Connect Your Data.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/connected-experiences-start-with-data.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas/372907.en.amc-article.marquee.3.1440x600.jpg",
+      "imageAlt":"Man standing in the airport with suitcase looking at plane taking off.",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/cross-channel",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"At Qantas, Authentic Customer Experiences Take Flight On The Front Line.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/authentic-customer-experiences-take-flight-at-qantas.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

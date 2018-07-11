@@ -1,0 +1,344 @@
+{
+  "page":2,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"popular",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation/5InnovativeExamples-marquee.jpg",
+      "imageAlt":"Picture of a helmet. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"5 Innovative Examples Of Augmented Reality In Action.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/redefining-exceptional-experiences-in-financial-services",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/fsi_redefining-exceptional.jpg",
+      "imageAlt":"Person typing on a computer screen",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/cross-channel",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"Redefining exceptional experiences in financial services.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/redefining-exceptional-experiences-in-financial-services.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/programmatic-revolution-technology-transforming-marketing",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/adobes-best-days-ahead-make-experience/programmatic-revolution-technology-transforming-marketing/02_Companion-blog-post-for-22Programmatic-Revolution22-Demand-Asset-e1486007499648-1200x672.jpg",
+      "imageAlt":"Person typing on a tablet. ",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven",
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"The Programmatic Revolution \u2014 How Technology Is Transforming Marketing.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/programmatic-revolution-technology-transforming-marketing.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/how-experience-keeps-top-finance-brands-in-the-lead",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/how-experience-keeps-top-finance-brands-in-the-lead/372629.en.amc-article.marquee.1440x600.png",
+      "imageAlt":"Abstract and colorful image of floating strips of paper",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"How experience keeps the top finance brands in the lead.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/how-experience-keeps-top-finance-brands-in-the-lead.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/television-gets-personal",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Television%20gets%20personal.jpg",
+      "imageAlt":"People watching tv with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Television Gets Personal.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/television-gets-personal.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Content%20unleashed%20A%20digital%20foundation%20for%20media%20and%20entertainment..jpg",
+      "imageAlt":"People sitting on a couch with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Content unleashed: A digital foundation for media and entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/how-to-build-a-crisis-resilient-brand",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/how-to-build-a-crisis-resilient-brand/Dont-Worry-You-Really-Can-Build-A-Crisis-Resilient-Brand.jpg",
+      "imageAlt":"Abstract geometrical shapes.",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/perspectives",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Don\u2019t Worry, You Really Can Build A Crisis-Resilient Brand.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/how-to-build-a-crisis-resilient-brand.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/gartners-ivar-berntz-how-to-ride-the-wave-of-digital-disruption",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/DigitalWaves-385x265.jpg",
+      "imageAlt":"Abstract image of a mountain. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"Gartner\u2019s Berntz Tells CIOs And CTOs: Get Ready To Ride The Wave Of Digital Disruption.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/gartners-ivar-berntz-how-to-ride-the-wave-of-digital-disruption.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/how-to-navigate-business-transformation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"Think Tank Video - Raj Shaw",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Raj Shaw, Managing Partner, Sapient Razorfish (PARTNER/AGENCY).",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/how-to-navigate-business-transformation.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22177t1/?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/what-a-high-tech-experience-led-b2b-business-looks-like",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/What%20does%20a%20High-Tech%2c%20Experience-Led%20B2B%20Business%20Look%20Like.jpg",
+      "imageAlt":"Abstract mountain",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"What does a High-Tech, Experience-Led B2B Business Look Like?",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/what-a-high-tech-experience-led-b2b-business-looks-like.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

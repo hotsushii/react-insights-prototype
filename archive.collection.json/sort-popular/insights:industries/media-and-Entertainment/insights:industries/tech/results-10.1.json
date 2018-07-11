@@ -1,0 +1,258 @@
+{
+  "page":1,
+  "totalPages":3,
+  "totalResults":21,
+  "sort":"popular",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/television-gets-personal",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Television%20gets%20personal.jpg",
+      "imageAlt":"People watching tv with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Television Gets Personal.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/television-gets-personal.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Content%20unleashed%20A%20digital%20foundation%20for%20media%20and%20entertainment..jpg",
+      "imageAlt":"People sitting on a couch with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Content unleashed: A digital foundation for media and entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/what-a-high-tech-experience-led-b2b-business-looks-like",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/What%20does%20a%20High-Tech%2c%20Experience-Led%20B2B%20Business%20Look%20Like.jpg",
+      "imageAlt":"Abstract mountain",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"What does a High-Tech, Experience-Led B2B Business Look Like?",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/what-a-high-tech-experience-led-b2b-business-looks-like.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/great-digital-experiences-breed-great-customer-loyalty",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Econsultancy%202017%20Digital%20Trends%20Tech%20report.jpg",
+      "imageAlt":"Marquee image - purple globe",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Great experiences breed great loyalty.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/great-digital-experiences-breed-great-customer-loyalty.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/m-and-E-brands-get-more-human-through-machines",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/m-and-E-brands-get-more-human-through-machines-cropped.jpg",
+      "imageAlt":"Machine-learning visualization over a man's face",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Media and entertainment brands get more human\u2014through machines.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/m-and-E-brands-get-more-human-through-machines.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017/1440x600_Econsultancy-2017-Digital-Trends-in-Media-and-Entertainment.jpg",
+      "imageAlt":"Man holding cell phone",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Econsultancy: 2017 Digital Trends in Media & Entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/6%20Ways%20To%20View%20The%20Big%20Picture%20In%20The%20Fragmented%20Digital%20M%26E%20World.jpg",
+      "imageAlt":"Abstract image of broken glass. ",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:collections/cross-channel",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"6 Ways To View The Big Picture In The Fragmented Digital M&E World.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/account-based-marketing-in-high-tech",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Finding%20your%20north%20star.jpg",
+      "imageAlt":"Abstract geometrical shapes.",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Finding your North Star.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/account-based-marketing-in-high-tech.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-marketing-in-the-high-tech-industry",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Competition%20Drives%20Digital%20marketing%20in%20The%20High-Tech%20Industry.jpg",
+      "imageAlt":"Abstract image of a finger.",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Competition Drives Digital Marketing In The High-Tech Industry.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-marketing-in-the-high-tech-industry.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/tv-everywhere-consumer-usage-trends",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/ADI%20Big-Screen%20TVE%20Viewing%20Stealing%20Share%20From%20Mobile.jpg",
+      "imageAlt":"Colorful cubes",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"ADI: Big-Screen TVE Viewing Stealing Share From Mobile.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/tv-everywhere-consumer-usage-trends.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

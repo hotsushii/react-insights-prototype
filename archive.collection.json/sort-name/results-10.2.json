@@ -1,0 +1,337 @@
+{
+  "page":2,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation/5InnovativeExamples-marquee.jpg",
+      "imageAlt":"Picture of a helmet. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"5 Innovative Examples Of Augmented Reality In Action.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/5-realworld-examples-of-augmented-reality-innovation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/5-retailers-that-have-made-experience-their-business",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/5-retailers-that-have-made-experience-their-business/5-Retailers-That-Have-Made-Experience-Their-Business.jpg",
+      "imageAlt":"Urban sidewalk scene with colorful splash",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/digital-transformation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"5 Retailers That Have Made Experience Their Business.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/5-retailers-that-have-made-experience-their-business.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/retailers-made-their-advertising-experiential",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_1046x616-target-ad.jpg",
+      "imageAlt":"rsz_1046x616-target-ad",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:industries/retail",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"5 times retailers made their advertising Experiential.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/retailers-made-their-advertising-experiential.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/fsi-companies-slow-to-embrace-digital-transformation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/FSI%20Guide%20Digital%20Transformation.jpg",
+      "imageAlt":"Abstract image of a person riding a bicycle on a digital wall. ",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"5 Ways Laggard FSI Firms Can Become Digital Pacesetters.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/fsi-companies-slow-to-embrace-digital-transformation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/5-ways-to-get-your-distributors-to-love-you",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/5%20Ways%20To%20Get%20Your%20Distributors%20to%20Love%20You.jpg",
+      "imageAlt":"People working in a workshop. ",
+      "primaryTagId":"insights:industries/B2B",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/B2B"
+      ],
+      "article":{
+        "title":"5 Ways To Get Your Distributors to Love You.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/5-ways-to-get-your-distributors-to-love-you.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/6-insights-to-make-mobile-enterprise-apps-work-for-you",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/6%20Insights%20To%20Make%20Mobile%20Enterprise%20Apps%20Work%20For%20You.jpg",
+      "imageAlt":"Picture of an air balloon. ",
+      "primaryTagId":"insights:collections/workforce-productivity",
+      "tags":[
+        "insights:collections/workforce-productivity"
+      ],
+      "article":{
+        "title":"6 Insights To Make Mobile Enterprise Apps Work For You.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/6-insights-to-make-mobile-enterprise-apps-work-for-you.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/6%20Ways%20To%20View%20The%20Big%20Picture%20In%20The%20Fragmented%20Digital%20M%26E%20World.jpg",
+      "imageAlt":"Abstract image of broken glass. ",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:collections/cross-channel",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"6 Ways To View The Big Picture In The Fragmented Digital M&E World.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/7-design-trends-for-your-business-2017",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/7-design-trends-for-your-business-2017/7_design_trends_marquee.jpg",
+      "imageAlt":"Person typing on a computer. ",
+      "primaryTagId":"insights:collections/experience-design",
+      "tags":[
+        "insights:collections/experience-design"
+      ],
+      "article":{
+        "title":"7 Design Trends for Your Business 2017.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/7-design-trends-for-your-business-2017.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/midyear-digital-trends-2017",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/7%20Digital%20Trends%20That%20Will%20Change%20Business%20Forever.jpg",
+      "imageAlt":"7 trends displayed on a phone. ",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"7 Digital Trends That Will Change Business Forever.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/midyear-digital-trends-2017.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-technology-in-healthcare-industry",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/digital-technology-in-healthcare-industry.jpg",
+      "imageAlt":"Doctor and patient surrounded by colorful bands small",
+      "primaryTagId":"insights:industries/health-care",
+      "tags":[
+        "insights:industries/health-care"
+      ],
+      "article":{
+        "title":"7 Ways Healthcare Tech Can Heal Providers.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-technology-in-healthcare-industry.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "page":1,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/15-stats-about-artificial-intelligence",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/15-stats-about-artificial-intelligence.jpg",
+      "imageAlt":"15 Mind Blowing Stats about AI",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"15 Mind Blowing Stats about AI.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/15-stats-about-artificial-intelligence.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-trends-in-travel-and-hospitality",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/digital-trends-in-travel-and-hospitality/372907.en.amc-article.marquee.4.1440x600.jpg",
+      "imageAlt":"Young adult in the mountains holding cellphone with polygonal object surrounding them with data points.",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"15 Mind-Blowing Stats About Digital Trends In Travel And Hospitality.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-trends-in-travel-and-hospitality.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/15-stats-about-b2b-high-tech",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/15digital_385x265.jpg",
+      "imageAlt":"Number 15 on an orange background. ",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"15 Mind-blowing stats about high-tech B2B.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/15-stats-about-b2b-high-tech.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/15-mind-blowing-stats-about-the-future-of-advertising",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/15-mind-blowing-stats-about-the-future-of-advertising-cropped.jpg",
+      "imageAlt":"Loud speaker blaring with icons and tools surrounding it",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"15 Mind-Blowing Stats About the Future of Advertising.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/15-mind-blowing-stats-about-the-future-of-advertising.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/2017-year-of-influencer-marketing",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/2017%20The%20Year%20of%20the%20Rooster%20Influencer.jpg",
+      "imageAlt":"City at night with fireworks. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"2017: The Year of the Rooster Influencer.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/2017-year-of-influencer-marketing.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/customer-experience-24-hour-fitness",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/customer-experience-24-hour-fitness/Man-with-gym-bag-outside-of-a-building.jpg",
+      "imageAlt":"Man with gym bag outside of a building",
+      "primaryTagId":"insights:collections/cross-channel",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/cross-channel"
+      ],
+      "article":{
+        "title":"24 Hour Fitness customer success video",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/customer-experience-24-hour-fitness.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22493?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/3-ways-to-solve-disruption-in-fsi",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/3-ways-to-solve-disruption-in-fsi.jpg",
+      "imageAlt":"3 Ways Successful FSIs Organize For Disruption",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"3 Ways Successful FSIs Organize for Disruption.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/3-ways-to-solve-disruption-in-fsi.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/4-lessons-for-todays-brands-from-aston-martins-first-concept-car",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/4%20Lessons%20About%20Innovation%20From%20Aston%20Martin%e2%80%99s%20First%20Concept%20Car.jpg",
+      "imageAlt":"Picture of a car. ",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/perspectives",
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"4 Lessons About Innovation From Aston Martin\u2019s First Concept Car.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/4-lessons-for-todays-brands-from-aston-martins-first-concept-car.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/companies-that-took-web-experience-to-the-next-level",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/T-mobile_8-bit_game.jpg",
+      "imageAlt":"Cropped category image T-mobile 8-bit game",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"5 companies that took web experience to the next level.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/companies-that-took-web-experience-to-the-next-level.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/5-digital-trends-for-financial-marketers",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/The%20number%205%20.png",
+      "imageAlt":"",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:industries/fsi",
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"5 Digital Trends Financial Marketers Can\u2019t Afford To Ignore",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/5-digital-trends-for-financial-marketers.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

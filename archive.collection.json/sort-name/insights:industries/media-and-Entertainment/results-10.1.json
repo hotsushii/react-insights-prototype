@@ -1,0 +1,250 @@
+{
+  "page":1,
+  "totalPages":1,
+  "totalResults":10,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/6%20Ways%20To%20View%20The%20Big%20Picture%20In%20The%20Fragmented%20Digital%20M%26E%20World.jpg",
+      "imageAlt":"Abstract image of broken glass. ",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:collections/cross-channel",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"6 Ways To View The Big Picture In The Fragmented Digital M&E World.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/understand-fragmented-media-and-entertainment-world.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/7-ways-to-personalize-TV",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/7%20ways%20to%20personalize%20TV.jpg",
+      "imageAlt":"TV Gets Personal",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"7 ways to personalize TV.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/7-ways-to-personalize-TV.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/tv-everywhere-consumer-usage-trends",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/ADI%20Big-Screen%20TVE%20Viewing%20Stealing%20Share%20From%20Mobile.jpg",
+      "imageAlt":"Colorful cubes",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"ADI: Big-Screen TVE Viewing Stealing Share From Mobile.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/tv-everywhere-consumer-usage-trends.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Content%20unleashed%20A%20digital%20foundation%20for%20media%20and%20entertainment..jpg",
+      "imageAlt":"People sitting on a couch with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Content unleashed: A digital foundation for media and entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/powerful-digital-foundation-for-media-and-entertainment.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017/1440x600_Econsultancy-2017-Digital-Trends-in-Media-and-Entertainment.jpg",
+      "imageAlt":"Man holding cell phone",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Econsultancy: 2017 Digital Trends in Media & Entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/nbc-sports-delivered-the-most-watched-digital-event-in-history",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/nbc-sports_385x265.jpg",
+      "imageAlt":"NBC sports logo. ",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"How NBC Sports delivered the most watched digital event in history.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/nbc-sports-delivered-the-most-watched-digital-event-in-history.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/m-and-E-brands-get-more-human-through-machines",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/m-and-E-brands-get-more-human-through-machines-cropped.jpg",
+      "imageAlt":"Machine-learning visualization over a man's face",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Media and entertainment brands get more human\u2014through machines.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/m-and-E-brands-get-more-human-through-machines.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/tmobile-if-you-love-your-customers-set-them-free",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/T-Mobile%20If%20You%20Love%20Your%20Customers%2c%20Set%20Them%20Free.jpg",
+      "imageAlt":"Graffiti wall with company stats",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"T-Mobile: If You Love Your Customers, Set Them Free.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/tmobile-if-you-love-your-customers-set-them-free.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/television-gets-personal",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Television%20gets%20personal.jpg",
+      "imageAlt":"People watching tv with bursts of abstract art",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Television Gets Personal.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/television-gets-personal.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/TVs-big-bet-on-audience-based-advertising",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_screen_shot_2018-02-27_at_40950_pm.jpg",
+      "imageAlt":"A woman watching television",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/advertising",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"TV's Big Bet on Audience Based Advertising.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/TVs-big-bet-on-audience-based-advertising.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

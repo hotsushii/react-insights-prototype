@@ -1,0 +1,347 @@
+{
+  "page":6,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/adobe-stock-premium-contributor-spotlight-ryan-longnecker",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/adobe-stock-premium-contributor-spotlight-ryan-longnecker/ryan_longnecker_marquee.jpg",
+      "imageAlt":"Picture of a beach. ",
+      "primaryTagId":"insights:collections/experience-design",
+      "tags":[
+        "insights:collections/perspectives",
+        "insights:collections/experience-design"
+      ],
+      "article":{
+        "title":"Contributor Spotlight: Ryan Longnecker.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/adobe-stock-premium-contributor-spotlight-ryan-longnecker.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/rise-of-chatbots-impacts-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/rise-of-chatbots-impacts-customer-experience/Image-Retail-Asset-1-The-Role-of-Chatbots-and-Conversational-Commerce-in-the-Evolving-Retail-Context-e1495513999668-1200x675.jpg",
+      "imageAlt":"Purple and red spirals",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/innovation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"Conversing for Commerce: How the Rise of Chatbots Will Improve Your Customer Experience.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/rise-of-chatbots-impacts-customer-experience.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/creating-a-continuous-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Creating%20a%20continuous%20customer%20experience.jpg",
+      "imageAlt":"Abstract image of a tablet screen. ",
+      "primaryTagId":"insights:collections/cross-channel",
+      "tags":[
+        "insights:collections/cross-channel"
+      ],
+      "article":{
+        "title":"Creating a continuous customer experience.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/creating-a-continuous-customer-experience.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/20864/?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/creative-first-media-planning-and-buying",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Creative-first-media-planning",
+      "imageAlt":"Personalizing Advertising Creative",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:collections/experience-design",
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"Creative-first media planning and buying is driving results for leading brands and agencies.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/creative-first-media-planning-and-buying.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22492?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/customers-dont-care-about-your-regulatory-requirements",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/dt_customers-dont-care.jpg",
+      "imageAlt":"Abstract image with an Adobe logo.",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Customers Don\u2019t Care About Your Regulatory Requirements.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/customers-dont-care-about-your-regulatory-requirements.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/customer-experience-economy-demands-a-different-approach",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Customers%20Take%20The%20Lead%20In%20A%20True%20Experience%20Business.jpg",
+      "imageAlt":"Abstract image of a person walking on a cliff. ",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Customers Take The Lead In A True Experience Business.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/customer-experience-economy-demands-a-different-approach.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences/en.aec.banner2.1440x600_74546780.jpg",
+      "imageAlt":"Data sets the stage for amazing retail experiences.",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"Data sets the stage for amazing retail experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/data-sets-the-stage-for-amazing-retail-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-transformation-delivering-great-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_screen_shot_2018-01-11_at_32946_pm.jpg",
+      "imageAlt":"rsz_screen_shot_2018-01-11_at_32946_pm",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Digital Transformation Paves the Way for Delivering Great Customer Experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation-delivering-great-customer-experience.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/how-to-build-a-crisis-resilient-brand",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/how-to-build-a-crisis-resilient-brand/Dont-Worry-You-Really-Can-Build-A-Crisis-Resilient-Brand.jpg",
+      "imageAlt":"Abstract geometrical shapes.",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/perspectives",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Don\u2019t Worry, You Really Can Build A Crisis-Resilient Brand.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/how-to-build-a-crisis-resilient-brand.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017/1440x600_Econsultancy-2017-Digital-Trends-in-Media-and-Entertainment.jpg",
+      "imageAlt":"Man holding cell phone",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"Econsultancy: 2017 Digital Trends in Media & Entertainment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-intelligence-trends-in-media-and-entertainment-2017.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

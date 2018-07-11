@@ -1,0 +1,340 @@
+{
+  "page":7,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/effortless-enrollment-",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/effortless-enrollment-/Hands%20over%20a%20keyboard%20with%20blue%20swirls%20over%20them.png",
+      "imageAlt":"Hands over a keyboard with blue swirls over them",
+      "article":{
+        "title":"Effortless enrollment.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/effortless-enrollment-.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/emerging-technologies-impact-customer-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/emerging-technologies-impact-customer-experience.jpg",
+      "imageAlt":"Emerging Technologies That Will Transform Experiences",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"Emerging Technologies That Will Transform Experiences.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/emerging-technologies-impact-customer-experience.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/enhancing-marketing-strategy-through-marketing-automation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/enhancing-marketing-strategy-through-marketing-automation-cropped.jpg",
+      "imageAlt":"Zoomed in image of gear with the word \"brand\" on it",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:industries/B2B",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Enhancing Marketing Strategies Through Automation.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/enhancing-marketing-strategy-through-marketing-automation.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/every-traveler-has-a-voice-through-voice-marketing",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_screen_shot_2018-02-27_at_40652_pm.jpg",
+      "imageAlt":"A timeless travel experience at an airport",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"Every traveler has a voice. Let them speak. ",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/every-traveler-has-a-voice-through-voice-marketing.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/experience-league-community-expert-support",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/experience-league-community-expert-support.jpg",
+      "imageAlt":"",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/workforce-productivity",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Experience League.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/experience-league-community-expert-support.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22288?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/experience-system-of-record",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"Think Tank Video - Brad Rencher",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Experience System of Record",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/experience-system-of-record.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/22283/?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/4-core-pillars-of-digital-fitness",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/rsz_1046x616-digital-maturty.jpg",
+      "imageAlt":"rsz_1046x616-digital-maturty",
+      "primaryTagId":"insights:collections/data-driven",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:collections/data-driven"
+      ],
+      "article":{
+        "title":"Experience Takes Shape: The 4 Core Pillars Of \u2018Digital Fitness\u2019",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/4-core-pillars-of-digital-fitness.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/financial-industry-leaders-commit-to-digital-revolution",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Financial%20industry%20leaders%20are%20committing%20to%20digital%20transformation.jpg",
+      "imageAlt":"Abstract and colorful image of floating strips of paper",
+      "primaryTagId":"insights:industries/fsi",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/fsi"
+      ],
+      "article":{
+        "title":"Financial Industry Leaders Are Committing To Digital Transformation.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/financial-industry-leaders-commit-to-digital-revolution.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/account-based-marketing-in-high-tech",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Finding%20your%20north%20star.jpg",
+      "imageAlt":"Abstract geometrical shapes.",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Finding your North Star.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/account-based-marketing-in-high-tech.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/digital-transformation-in-retail",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/digital-transformation-in-retail/en.aec.banner1.1440x600.jpg",
+      "imageAlt":"Mobile payment image",
+      "primaryTagId":"insights:industries/retail",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/retail"
+      ],
+      "article":{
+        "title":"For Retail, Technology Is \u2018Only One Slice Of The Digital Journey\u2019.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation-in-retail.html"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

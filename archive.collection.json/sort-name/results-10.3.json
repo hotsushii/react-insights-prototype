@@ -1,0 +1,352 @@
+{
+  "page":3,
+  "totalPages":16,
+  "totalResults":154,
+  "sort":"name",
+  "cards":[
+    {
+      "page":"/content/www/us/en/insights/7-ways-to-personalize-TV",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/7%20ways%20to%20personalize%20TV.jpg",
+      "imageAlt":"TV Gets Personal",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"7 ways to personalize TV.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/7-ways-to-personalize-TV.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/history-of-advertising",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/A%20History%20of%20Advertising.jpg",
+      "imageAlt":"Picture of electronic devices. ",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:collections/cross-channel",
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"A history of advertising.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/history-of-advertising.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/20865?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/ar-vr-wearables-emerge-as-travel-industry-disruptors",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/ar%20vr%20and%20wearables%20emerge%20as%20travel%20industry.jpg",
+      "imageAlt":"Young girl wearing a VR headset.",
+      "primaryTagId":"insights:industries/travel-and-hospitality",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:industries/travel-and-hospitality"
+      ],
+      "article":{
+        "title":"ADI: AR, VR, And Wearables Emerge As Travel Industry Disruptors.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/ar-vr-wearables-emerge-as-travel-industry-disruptors.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/tv-everywhere-consumer-usage-trends",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/ADI%20Big-Screen%20TVE%20Viewing%20Stealing%20Share%20From%20Mobile.jpg",
+      "imageAlt":"Colorful cubes",
+      "primaryTagId":"insights:industries/media-and-Entertainment",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:industries/media-and-Entertainment"
+      ],
+      "article":{
+        "title":"ADI: Big-Screen TVE Viewing Stealing Share From Mobile.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/tv-everywhere-consumer-usage-trends.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/tech-companies-lead-the-way-in-digital-experiences",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/Adobe%20and%20Econsultancy%20Technology%20Companies%20Lead%20the%20Way%20in%20Digital%20Experience%20Delivery%20by%20Jill%20Steinhour.jpg",
+      "imageAlt":"Marquee image black matrix background",
+      "primaryTagId":"insights:industries/tech",
+      "tags":[
+        "insights:collections/digital-transformation",
+        "insights:industries/tech"
+      ],
+      "article":{
+        "title":"Adobe & Econsultancy Release New Research: \u201cTechnology Companies Lead the Way in Digital Experience Delivery.\u201d",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/tech-companies-lead-the-way-in-digital-experiences.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/multichannel-marketing-gartner-magic-quadrant",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/man-looking-at-phone-while-on-a-train.png",
+      "imageAlt":"Man looking at phone while on a train",
+      "primaryTagId":"insights:collections/cross-channel",
+      "tags":[
+        "insights:collections/data-driven",
+        "insights:collections/cross-channel"
+      ],
+      "article":{
+        "title":"Adobe named a leader in Gartner Magic Quadrant MCMH",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/multichannel-marketing-gartner-magic-quadrant.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/adobes-best-days-ahead-make-experience",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/The%20Programmatic%20Revolution%20-%20How%20Technologis%20is%20Transforming%20Marketing.jpg",
+      "imageAlt":"Adobe's best days",
+      "primaryTagId":"insights:collections/digital-transformation",
+      "tags":[
+        "insights:collections/innovation",
+        "insights:collections/digital-transformation"
+      ],
+      "article":{
+        "title":"Adobe\u2019s Best Days are Ahead \u2014 Make it an Experience.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/adobes-best-days-ahead-make-experience.html"
+      },
+      "video":{
+        "url":"https://video.tv.adobe.com/v/17005t1/?autoplay=true&quality=9",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/advertising-measurement-personal-data",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/advertising-measurement-personal-data/Colorful%20bands.jpg",
+      "imageAlt":"Colorful bands",
+      "primaryTagId":"insights:collections/advertising",
+      "tags":[
+        "insights:collections/advertising"
+      ],
+      "article":{
+        "title":"Advertising Measurement Gets Emotional.",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/advertising-measurement-personal-data.html"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/ai-business-workforce-transformation",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"AI Business and Workforce Transformation",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"AI Business and Workforce Transformation",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/ai-business-workforce-transformation.html"
+      },
+      "video":{
+        "url":"https://www.youtube.com/embed/nHHjiCduJ2M?autoplay=1&rel=0",
+        "policy":"autoplay; fullscreen"
+      }
+    },
+    {
+      "page":"/content/www/us/en/insights/ai-innovation-in-enterprise",
+      "type":"standard",
+      "width":1,
+      "background":"/content/dam/www/us/en/insights/cropped_images/think-tank-video-raj-shaw.jpg",
+      "imageAlt":"AI Innovation in the Enterprise",
+      "primaryTagId":"insights:collections/innovation",
+      "tags":[
+        "insights:collections/innovation"
+      ],
+      "article":{
+        "title":"AI Innovation in the Enterprise",
+        "author":"",
+        "url":"http://localhost:4502/content/www/us/en/insights/ai-innovation-in-enterprise.html"
+      },
+      "video":{
+        "url":"https://www.youtube.com/embed/RDTo2XwV4qo?autoplay=1&rel=0",
+        "policy":"autoplay; fullscreen"
+      }
+    }
+  ],
+  "tags":{
+    "insights":{
+      "title":"Insights",
+      "id":"insights",
+      "color":"#FF4136",
+      "url":"",
+      "tags":{
+        "industries":{
+          "title":"Industries",
+          "id":"insights:industries",
+          "color":"#39CCCC",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "media-and-Entertainment":{
+              "title":"Media & Entertainment",
+              "id":"insights:industries/media-and-Entertainment",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/media-entertainment.html",
+              "tags":{
+
+              }
+            },
+            "tech":{
+              "title":"Tech",
+              "id":"insights:industries/tech",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/tech.html",
+              "tags":{
+
+              }
+            },
+            "B2B":{
+              "title":"B2B",
+              "id":"insights:industries/B2B",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/b2b.html",
+              "tags":{
+
+              }
+            },
+            "health-care":{
+              "title":"Health Care",
+              "id":"insights:industries/health-care",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/healthcare.html",
+              "tags":{
+
+              }
+            },
+            "retail":{
+              "title":"Retail",
+              "id":"insights:industries/retail",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/retail.html",
+              "tags":{
+
+              }
+            },
+            "travel-and-hospitality":{
+              "title":"Travel and hospitality",
+              "id":"insights:industries/travel-and-hospitality",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/travel-and-hospitality.html",
+              "tags":{
+
+              }
+            },
+            "fsi":{
+              "title":"FSI",
+              "id":"insights:industries/fsi",
+              "color":"#bb121a",
+              "url":"http://localhost:4502/content/www/us/en/insights/fsi.html",
+              "tags":{
+
+              }
+            }
+          }
+        },
+        "collections":{
+          "title":"Collections",
+          "id":"insights:collections",
+          "color":"#7FDBFF",
+          "url":"http://localhost:4502/content/www/us/en/insights.html",
+          "tags":{
+            "experience-design":{
+              "title":"Design",
+              "id":"insights:collections/experience-design",
+              "color":"#002f99",
+              "url":"http://localhost:4502/content/www/us/en/insights/design.html",
+              "tags":{
+
+              }
+            },
+            "innovation":{
+              "title":"Innovation",
+              "id":"insights:collections/innovation",
+              "color":"#006f26",
+              "url":"http://localhost:4502/content/www/us/en/insights/innovation.html",
+              "tags":{
+
+              }
+            },
+            "perspectives":{
+              "title":"Perspectives",
+              "id":"insights:collections/perspectives",
+              "color":"#39CCCC",
+              "url":"http://localhost:4502/content/www/us/en/insights/perspectives.html",
+              "tags":{
+
+              }
+            },
+            "data-driven":{
+              "title":"Data Driven",
+              "id":"insights:collections/data-driven",
+              "color":"#550469",
+              "url":"http://localhost:4502/content/www/us/en/insights/data-driven.html",
+              "tags":{
+
+              }
+            },
+            "workforce-productivity":{
+              "title":"Workforce Productivity",
+              "id":"insights:collections/workforce-productivity",
+              "color":"#000000",
+              "url":"http://localhost:4502/content/www/us/en/insights/workforce-productivity.html",
+              "tags":{
+
+              }
+            },
+            "advertising":{
+              "title":"Advertising",
+              "id":"insights:collections/advertising",
+              "color":"#e85700",
+              "url":"http://localhost:4502/content/www/us/en/insights/advertising.html",
+              "tags":{
+
+              }
+            },
+            "digital-transformation":{
+              "title":"Digital Transformation",
+              "id":"insights:collections/digital-transformation",
+              "color":"#d80077",
+              "url":"http://localhost:4502/content/www/us/en/insights/digital-transformation.html",
+              "tags":{
+
+              }
+            },
+            "cross-channel":{
+              "title":"Cross-channel",
+              "id":"insights:collections/cross-channel",
+              "color":"#00939b",
+              "url":"http://localhost:4502/content/www/us/en/insights/cross-channel.html",
+              "tags":{
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
