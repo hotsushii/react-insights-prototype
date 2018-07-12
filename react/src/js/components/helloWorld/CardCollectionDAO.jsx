@@ -34,8 +34,8 @@ export default class CardCollectionDAO {
      * @returns {Promise} Promise Object with server json data
      * @memberof CardCollectionDAO
      */
-    getData() {
-        let fetchStr = `${this.endpoint}.collection.json/sort-${this.sort}/`;
+    getData(){
+        let fetchStr = `${this.endpoint}archive.collection.json/sort-${this.sort}/`;
         if (this.activeFilters.length !== 0) {
             const filterStr = this.activeFilters.join('/');
             fetchStr += `${filterStr}/`;
